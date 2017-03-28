@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public name="bind_onClick" type="attr" />
+    <public name="bind_getField" type="attr" />
+    <public name="bind_setField" type="attr" />
+</resources>

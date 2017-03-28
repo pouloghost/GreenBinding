@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="bind">
+        <attr name="bind_onClick" format="string" />
+        <attr name="bind_getField" format="string" />
+        <attr name="bind_setField" format="string" />
+    </declare-styleable>
+</resources>
